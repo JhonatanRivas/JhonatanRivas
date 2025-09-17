@@ -3,7 +3,7 @@
 👨🏻‍💻  Analista BI compartiendo sobre mi [trayectoria y aprendizajes](https://www.linkedin.com/in/jhonatanjhoelrivascure) en tecnología</br> 
 👨🏻‍🎓  Estudié Ingeniería de Computación y Sistemas en la Universidad de San Martin de Porres</br> 
 🎨  Haciendo videos sobre análisis de datos, tecnología y productividad en YouTube</br>
-🚀  Apasionado por el análisis de datos, data engineering y ciencia de datos</br>
+🚀  Apasionado por el análisis de datos, ingeniería de datos y ciencia de datos</br>
 ✨  “Compartir es la mejor forma de aprender”</br>
 
 ## 💻 Tech Stack
@@ -23,4 +23,4 @@
 ## 📊 Mis estadísticas en GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JhonatanRivas&show_icons=true&theme=tokyonight&locale=es&hide=contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+![Trofeos](https://github-profile-trophy.vercel.app/?username=JhonatanRivas&theme=tokyonight&margin-w=15&margin-h=15)
